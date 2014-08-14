@@ -10,4 +10,11 @@
 
 @implementation UnfinishedObject
 
+-(void) randomMethod{
+    NSLog(@"poond");
+    //polocks
+    
+}
+
+
 @end

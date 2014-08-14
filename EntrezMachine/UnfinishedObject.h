@@ -10,4 +10,7 @@
 
 @interface UnfinishedObject : NSObject
 
+-(void) randomMethod;
+
+
 @end
